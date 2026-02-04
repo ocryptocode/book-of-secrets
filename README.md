@@ -1,6 +1,7 @@
 # book-of-secrets
 a book that has ultimate tech knowledge, this is the book that has everything you need
 
+this is what I learn everyday
 
 
 this is gonna be hosted by wolfist along with roadmap 2.0
