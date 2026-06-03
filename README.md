@@ -1,4 +1,6 @@
 # Book-of-alpha
+
+
 a book that has ultimate tech knowledge, this is the book that has everything you need
 
 this is what we learn everyday
