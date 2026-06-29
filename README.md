@@ -10,6 +10,8 @@ we don't just learn we also teach
 
 
 this is gonna be hosted by wolfist and aalex along with roadmap 2.0
+
+
 ----- 
 
 here is what we have
