@@ -15,6 +15,7 @@ this is gonna be hosted by wolfist and aalex along with roadmap 2.0
 
 ----- 
 
+
 here is what we have
 - web3 and web4 knowledge 
 - crypto trends
